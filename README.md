@@ -7,10 +7,11 @@ Sou Amanda Kelly, Brasileira, 19 anos.
 
  <div>
   <a href="https://github.com/amandakelly3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandakelly3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakelly3&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandakelly3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "505m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandakelly3&layout=compact&langs_count=7&theme=radical"/>
+   <img align="right" width="110" height="110" border="0" alt="Amanda-yoda" src="https://i.picasion.com/pic91/1a1b853a036cede81c5c7f69cffe2b44.gif">
 </div>
-   
+
   ##
  
  <div> 
@@ -18,4 +19,5 @@ Sou Amanda Kelly, Brasileira, 19 anos.
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:amandakelly.tj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
+
 </div>
