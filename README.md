@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Olá!
-Sou Amanda Kelly, Brasileira, 20 anos.
+Sou Amanda Kelly, Brasileira, 21 anos.
 - 🔭 Sou estudante de sistemas de informação na Unifacisa
 - ⚡ estou aprendendo as linguagens Python e Java.
 
