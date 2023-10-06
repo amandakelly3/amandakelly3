@@ -3,7 +3,6 @@
 Olá!
 Sou Amanda Kelly, Brasileira, 21 anos.
 - 🔭 Sou estudante de sistemas de informação na Unifacisa
-- ⚡ estou aprendendo as linguagens Python e Java.
 
  <div>
   <a href="https://github.com/amandakelly3">
