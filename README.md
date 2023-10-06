@@ -1,8 +1,5 @@
 ### Olá 👋
-
-Olá!
-Sou Amanda Kelly, Brasileira, 21 anos.
-- 🔭 Sou estudante de sistemas de informação na Unifacisa
+ Sou Amanda Kelly, Brasileira, 21 anos, estudante de sistemas de informação na Unifacisa.
 
  <div>
   <a href="https://github.com/amandakelly3">
